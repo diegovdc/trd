@@ -1,0 +1,32 @@
+{
+  "name": "trd",
+  "version": "0.0.1",
+  "description": "A function for composing, inspired by Clojure's thread macro.",
+  "main": "trd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegovdc/trd.git"
+  },
+  "keywords": [
+    "function",
+    "composition",
+    "clojure",
+    "thread",
+    "pipe",
+    "functional"
+  ],
+  "author": "diegovdc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegovdc/trd/issues"
+  },
+  "homepage": "https://github.com/diegovdc/trd#readme",
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-env": "1.6.1"
+  }
+}
