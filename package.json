@@ -1,6 +1,6 @@
 {
   "name": "trd",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A function for composing, inspired by Clojure's thread macro.",
   "main": "trd.js",
   "scripts": {
