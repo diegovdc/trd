@@ -2,7 +2,7 @@
   "name": "trd",
   "version": "0.1.0",
   "description": "A function for composing, inspired by Clojure's thread macro.",
-  "main": "trd.js",
+  "main": "./lib/trd.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d lib"
